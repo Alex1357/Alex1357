@@ -7,7 +7,7 @@
 
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/alexandra-atamanova-2a6243256">
+  <a href="https://linkedin.com/in/alexandra-atamanova-2a6243256">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
 </div>
 
@@ -31,7 +31,7 @@
 
 - :eyes: In my free time, I create beauty from beads and watch/listen video about testing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-welcome-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/alexandra-atamanova-2a6243256)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-welcome-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexandra-atamanova-2a6243256)
   
 
 
