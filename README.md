@@ -1,26 +1,21 @@
-<h1  align="center">
+<h1  align="дуае">
   🌤
-  Hi, my dear friend
+  Hi evereone!
   🌤
 </h1>
 
-  
-  
-<div align="center">
-  ⚡I want it
-  ⚡I try it  
-  ⚡I do it
-</div>
 
-  
-  
- - :telescope: I teach others and I learn myself.
 
-- :seedling: Improving my knowledge in Python, Testing, Postman and SQL.
 
-- :eyes: In my free time, I create beauty from beads and watch/listen video about testing.
+:raised_hand:  I'm Aleksandra. And these repositories represent my creative endeavors and projects.
+   
+  :telescope: I focus on endeavors that contribute to enhancement of my skills and capabilities.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-welcome-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexandra-atamanova-2a6243256)
+  :seedling: Area of ​​interest: Python, Selenium, automated and manual testing, Postman.
+
+  :eyes: In my free time, I create beauty from beads and watch or listen video about testing.
+
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-welcome-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexandra-atamanova-2a6243256)
   
 
 
